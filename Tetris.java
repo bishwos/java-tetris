@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.IntStream;
 
-public class TestImmediateRead {
+public class Tetris {
     static final String BLOCK = "[:]";
     static int BLOCK_SIZE = 3;
     static int COLUMNS;
